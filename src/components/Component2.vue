@@ -74,7 +74,7 @@
         </tr>
       </tbody>
     </v-data-table>
-    <Component3 v-if="store.dialog" :sendDataToChild="sendDataToChild" />
+    <Component3 v-if="store.dialog" />
     <Alert v-if="store.alert" />
   </div>
 </template>
