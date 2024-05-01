@@ -27,7 +27,7 @@ The News Management App is a web application built with Vue.js and Vuetify frame
 - Allows users to add a new news article or edit existing ones.
 - Contains necessary fields for news details.
 - Provides options to add or update news articles.
-![add-update](https://github.com/Mugheessaad/news-app/assets/110941437/ed2907b8-ab93-45f0-b33a-ac99d3344710)
+![add-update](https://github.com/Mugheessaad/news-app/assets/110941437/daa1b058-381e-40c0-805e-a6f0252b530d)
 
 ## Technologies Used
 
