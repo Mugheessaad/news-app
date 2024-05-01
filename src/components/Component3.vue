@@ -35,7 +35,6 @@
 </template>
 
 <script setup>
-import { watch } from "vue";
 import { onMounted } from "vue";
 import { ref, reactive } from "vue";
 import { newsStore } from "@/store/newsStore";
